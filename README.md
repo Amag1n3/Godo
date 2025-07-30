@@ -25,9 +25,11 @@ git clone https://github.com/Amag1n3/Godo.git
 cd Godo
 go build -o godo
 ./godo
+```
 
 
-
+## ⚙️ Functionality
+```
 godo             # Launches the TUI
 godo add         # Adds a new task via prompt
 godo list        # Shows all tasks
@@ -35,3 +37,4 @@ godo edit        # Edits a selected task
 godo delete      # Deletes a selected task
 godo --purge     # Deletes only completed tasks
 godo --purgeall  # Deletes ALL tasks
+```
