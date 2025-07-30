@@ -38,3 +38,13 @@ godo delete      # Deletes a selected task
 godo --purge     # Deletes only completed tasks
 godo --purgeall  # Deletes ALL tasks
 ```
+
+## 🔧 Tech Stack
+## 🛠️ Tech Stack
+
+- [Go](https://golang.org/)
+- [Cobra](https://github.com/spf13/cobra)
+- [tablewriter](https://github.com/olekukonko/tablewriter)
+- [huh](https://github.com/charmbracelet/huh)
+- [Bubbletea](https://github.com/charmbracelet/bubbletea)
+
