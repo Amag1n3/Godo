@@ -21,7 +21,11 @@
 ## 🚀 Getting Started
 
 ```bash
-go install github.com/yourusername/godo@latest
+git clone https://github.com/Amag1n3/Godo.git
+cd Godo
+go build -o godo
+./godo
+
 
 
 godo             # Launches the TUI
