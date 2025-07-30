@@ -49,6 +49,15 @@ godo --purgeall  # Deletes ALL tasks
 - [Bubbletea](https://github.com/charmbracelet/bubbletea)
 
 
+## 🚧 Upcoming Features
+
+- [ ] Auto-schedule empty deadlines for today at 24:00 hrs
+- [ ] Natural language support for deadlines (e.g., “tomorrow”)
+- [ ] Optional reminders/notifications for deadlines
+- [x] Add `--purge` and `--purgeall` flags to delete tasks ✅
+- [ ] Export/Import tasks to/from JSON or CSV
+
+
 🧑‍💻 About Me
 
 Hi! I'm Amogh Tyagi, a developer passionate about building useful, elegant tools for the terminal. I love Go, minimalism, and making the command line a more beautiful place.
