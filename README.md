@@ -1,6 +1,6 @@
 # 🧠 godo — Your Smart CLI Task Companion
 
-**godo** is a sleek, terminal-based todo manager built with Go — combining the power of the CLI with a smooth TUI using Charmbracelet's `huh` for an interactive experience.
+**godo** is a sleek, terminal-based todo manager built with Go — combining the power of the CLI with a smooth TUI.
 
 > ⚡ No clutter. No distractions. Just productivity.
 
