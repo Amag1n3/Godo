@@ -14,7 +14,7 @@
 - 🧹 `--purge` to remove completed tasks
 - 💣 `--purgeall` to wipe the slate clean
 - 🎨 Beautiful terminal UI powered by `huh`
-- 💾 Data stored locally in `~/.godo/tasks.json` (or `.csv`, if you're using CSV)
+- 💾 Data stored locally in JSON format @`~/.godo/tasks.json`
 
 ---
 
