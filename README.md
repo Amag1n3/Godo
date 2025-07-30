@@ -22,3 +22,12 @@
 
 ```bash
 go install github.com/yourusername/godo@latest
+
+
+godo             # Launches the TUI
+godo add         # Adds a new task via prompt
+godo list        # Shows all tasks
+godo edit        # Edits a selected task
+godo delete      # Deletes a selected task
+godo --purge     # Deletes only completed tasks
+godo --purgeall  # Deletes ALL tasks
