@@ -52,6 +52,7 @@ godo --purgeall  # Deletes ALL tasks
 🧑‍💻 About Me
 
 Hi! I'm Amogh Tyagi, a developer passionate about building useful, elegant tools for the terminal. I love Go, minimalism, and making the command line a more beautiful place.
-🐦 [Instagram](https://www.instagram.com/tyagi_amogh/)
+
+ [Instagram](https://www.instagram.com/tyagi_amogh/)
 💼 [LinkedIn](https://www.linkedin.com/in/amogh-tyagi-9b9012320/)  
 📧 [amoghtyagi22092005@gmail.com](mailto:amoghtyagi22092005@gmail.com)
