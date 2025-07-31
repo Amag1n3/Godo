@@ -54,7 +54,7 @@ godo --purgeall  # Deletes ALL tasks
 - [ ] Auto-schedule empty deadlines for today at 24:00 hrs
 - [ ] Natural language support for deadlines (e.g., “tomorrow”)
 - [ ] Optional reminders/notifications for deadlines
-- [x] Add `--purge` and `--purgeall` flags to delete tasks ✅
+- [x] Add `--purge` and `--purgeall` flags to delete tasks
 - [ ] Export/Import tasks to/from JSON or CSV
 
 
